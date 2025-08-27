@@ -1,7 +1,8 @@
 body {
     text-align: center;
-    background-color: #fffffe;
-    color:#55423d
+    background-color: #363636;
+    color:white;
+    font-family: Arial, sans-serif;
 }
 
 section {
@@ -9,9 +10,10 @@ section {
     text-align: center;
     align-items: center;
     justify-content: space-around;
-    border:2px solid #55423d;
+    border:2px solid white;
+    border-radius: 10px;
     background-color: #00ebc7;
-    color: #55423d;
+    color: black;
     margin: 80px;
     padding: 20px;
 }
@@ -22,6 +24,7 @@ ul {
     text-align: center;
     align-items: center;
     margin-right: 30px;
+    /* list-style: none; */
 
 }
 
